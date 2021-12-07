@@ -37,7 +37,7 @@
                         <h5 class="card-title text-center mt-5 header-color">Atau login melalui metode lain</h5>
                         <div class="d-flex justify-content-center mt-5">
                             <a href="/auth/facebook" class="btn rounded-pill me-4" style="background-color: white"><i class="bi bi-facebook"></i></a>
-                            <button type="button" class="btn rounded-pill me-4" style="background-color: white"><i class="bi bi-google"></i></button>
+                            <a href="/auth/facebook" class="btn rounded-pill me-4" style="background-color: white"><i class="bi bi-google"></i></a>
                             <button type="button" class="btn btn-dark rounded-pill"><i class="bi bi-apple"></i></button>
                         </div>
                     </div>
